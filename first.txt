@@ -5,4 +5,5 @@ Hello
 Mahesh
 difference
 FETCH VS PULL
-reset
+reset 
+hard reset
