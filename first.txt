@@ -5,3 +5,4 @@ Hello
 Mahesh
 difference
 FETCH VS PULL
+reset
