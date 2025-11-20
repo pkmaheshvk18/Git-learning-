@@ -3,3 +3,7 @@ Good Afternoon
 Good Evening
 Hello
 Mahesh
+difference
+FETCH VS PULL
+reset 
+hard reset
