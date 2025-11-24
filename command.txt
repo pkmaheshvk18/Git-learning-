@@ -1,0 +1,7 @@
+using az CLI create Resource Group
+az group create --name mahesh-123 --location 'West US'
+
+How To deploy or submit arm templates 
+  1. one way is Upload in using
+  2. second one is using azure cli deploy the resources.
+  az deployment group create --resource-group mahesh-123 --template-file storage-account.json
